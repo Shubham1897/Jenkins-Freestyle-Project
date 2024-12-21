@@ -2,10 +2,8 @@
 baseurl = https://repo.almalinux.org/almalinux/8/AppStream/x86_64/os
 enabled = 1
 gpgcheck = 0
-name = "AppStream"
 
 [Base]
 baseurl = https://repo.almalinux.org/almalinux/8/BaseOS/x86_64/os
 enabled = 1
 gpgcheck = 0
-name = "BaseOS"
